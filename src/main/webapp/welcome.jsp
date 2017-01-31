@@ -894,7 +894,7 @@
 
 </div>
 <footer class="container-fluid footer-pf-alt">
-  <p>&copy; 2016 Openshift-javaee-dev</p>
+  <p>&copy; 2017 Openshift-javaee-dev-7</p>
 </footer>
 
 <script>
